@@ -1,4 +1,4 @@
-Pymux
+Pymu
 =====
 
 *A terminal multiplexer (like tmux) in Python*
